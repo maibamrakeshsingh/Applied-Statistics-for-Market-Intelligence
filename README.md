@@ -1,1 +1,1 @@
-# Applied-Statistics-for-Market-Intelligence
+Applied-Statistics-for-Market-Intelligence
